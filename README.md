@@ -17,13 +17,7 @@ A modern, full-featured **Car Rental Web Application** built using the **MERN st
 
 ---
 
-## 🛠️ Tech Stack
 
-### Frontend:
-- React.js
-- React Router
-- Tailwind CSS
-- DaisyUI
 
 ### Backend:
 - Node.js
