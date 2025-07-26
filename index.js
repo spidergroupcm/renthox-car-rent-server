@@ -167,7 +167,7 @@ async function run() {
       res.send(result);
     });
 
-    // Update booking dates
+    // Update/ Reshedule booking dates 
     app.patch("/books/dates/:id", async (req, res) => {
       const { startDate, endDate } = req.body;
       const result = await bookingCollections.updateOne(
